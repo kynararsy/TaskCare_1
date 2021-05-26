@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskCare1</string>
+    <string name="error_message_form_empty" />
+</resources>
